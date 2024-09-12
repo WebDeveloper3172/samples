@@ -166,3 +166,25 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+  - Id: CharacterAvatars
+    Resources:
+    - name: KohakuDefault
+      pathPrefix: CharacterAvatars
+      guid: 2a96b6cba1a7f3e499f6ff55cf0890b3
+    - name: MisakiDefault
+      pathPrefix: CharacterAvatars
+      guid: af9b88fe3c4dfa54bb9425eafcdfbf17
+    - name: MisakiSurprise
+      pathPrefix: CharacterAvatars
+      guid: 9dfb4323f3813b4468a4554f206ccaac
+    - name: YukoDefault
+      pathPrefix: CharacterAvatars
+      guid: 16b21e6d4765e334a9c3080c785e6a93
+  - Id: Scripts
+    Resources:
+    - name: Dialogues
+      pathPrefix: Scripts
+      guid: d12d9584677bfdd458afb1f95681a552
+    - name: Novel
+      pathPrefix: Scripts
+      guid: 75d6a7c907dc1344aaa28caf175f1a70
