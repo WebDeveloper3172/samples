@@ -74,8 +74,8 @@ MonoBehaviour:
     - TMProWide
     - TMProChat
     - TMProBubble
-    - Novel
-    - Adventure
+    - NovelPrinter
+    - AdventurePrinter
     metas:
     - Implementation: Naninovel.UITextPrinter, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null

@@ -166,6 +166,12 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+    - name: AdventurePrinter
+      pathPrefix: UI
+      guid: 9a1cd9141b2e63b4ea9b0d023c80cbf7
+    - name: NovelPrinter
+      pathPrefix: UI
+      guid: 378df89780335384f81b562ec88feb43
   - Id: CharacterAvatars
     Resources:
     - name: KohakuDefault
