@@ -188,3 +188,63 @@ MonoBehaviour:
     - name: Novel
       pathPrefix: Scripts
       guid: 75d6a7c907dc1344aaa28caf175f1a70
+  - Id: Characters/655ad46e-60d5-428e-9f18-2ce14d869e6e
+    Resources:
+    - name: Angry
+      pathPrefix: Characters/Kohaku
+      guid: 3eb2f3cda74a8f54190bd19e4822507f
+    - name: Confidence
+      pathPrefix: Characters/Kohaku
+      guid: 8bf71bff857c18d42a8f7cd5629d8a78
+    - name: Default
+      pathPrefix: Characters/Kohaku
+      guid: b199676cfa2c48449bc8a10296f859ea
+    - name: Happy
+      pathPrefix: Characters/Kohaku
+      guid: f9f54bcf8c54048479bbad5a1d0652af
+    - name: Pain
+      pathPrefix: Characters/Kohaku
+      guid: 14948008e6821b84886a82ce57f1af7d
+    - name: Surprise
+      pathPrefix: Characters/Kohaku
+      guid: 8a05c81015a4b214c87ee73dcd1fac84
+  - Id: Characters/df1e0728-16cd-4932-9b14-d8362612145c
+    Resources:
+    - name: Angry
+      pathPrefix: Characters/Misaki
+      guid: 25926a558b5dcb44981b167d10c7fd34
+    - name: Confidence
+      pathPrefix: Characters/Misaki
+      guid: b8c5582b0b7a4f34da9e319c2fd57a73
+    - name: Default
+      pathPrefix: Characters/Misaki
+      guid: 3b3394a025719294c9f6a2774e546997
+    - name: Pain
+      pathPrefix: Characters/Misaki
+      guid: 090b457f6f7cc634f9f1ad4a70c45b1b
+    - name: Sad
+      pathPrefix: Characters/Misaki
+      guid: 3d93d636e5e90064db7bc223e81634ac
+    - name: Surprise
+      pathPrefix: Characters/Misaki
+      guid: ac5354bdfc104c543aa249c65ffaa0e5
+  - Id: Characters/8764f06c-1416-43d4-9a89-2b92c6738708
+    Resources:
+    - name: Angry
+      pathPrefix: Characters/Yuko
+      guid: c731f8e8ebd984a4cbfa6972d218257c
+    - name: Confidence
+      pathPrefix: Characters/Yuko
+      guid: 02f2e2dabcfda3345aa15c170f9814ad
+    - name: Default
+      pathPrefix: Characters/Yuko
+      guid: 097390a99779b474b919c8242dbacc73
+    - name: Pain
+      pathPrefix: Characters/Yuko
+      guid: 062fde8df3e34e741ac61e5e6e90c813
+    - name: Sad
+      pathPrefix: Characters/Yuko
+      guid: 5239601049a38e745a8553f91f8c2ce6
+    - name: Surprise
+      pathPrefix: Characters/Yuko
+      guid: 09b5eb3dfd24dba47a72f010dfdd9ac3

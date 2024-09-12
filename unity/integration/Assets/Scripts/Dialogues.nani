@@ -3,10 +3,10 @@ y: Lorem ipsum dolor sit amet, consectetur adipiscing elit.[i] Quisque sed massa
 k: Cras dapibus...[i] Massa pulvinar fermentum venenatis!
 y: Cras ut ex augue?[skipInput]
 @choice "Go to novel mode" goto:Novel
-@choice "Nevermind"
+@choice Nevermind
 @stop
 y: See ya!
-@adventure reset:false
+@adventure reset:true
 
 # Misaki
 m: Suspendisse potenti in faucibus orci.
